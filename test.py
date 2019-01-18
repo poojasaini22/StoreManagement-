@@ -1,9 +1,3 @@
-global count_w_s
-global count_w_m
-global count_w_l
-global count_b_s
-global count_b_m
-global count_b_l
 count_w_s=7
 count_w_m=6
 count_w_l=2
